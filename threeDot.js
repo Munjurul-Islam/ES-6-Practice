@@ -6,5 +6,5 @@ console.log(threeDot)
 
 const tk = [550, 654, 334, 876, 300]
 // const maximumNumber = Math.max(tk);             /**output NaN */
-const maximumNumber = Math.max(...tk);              /**three dot ... for array */
+const maximumNumber = Math.max(...tk);              /**three dot ... befor array name */
 console.log(maximumNumber)
